@@ -5,9 +5,16 @@
 
 In the project directory, you can run:
 
+
 ### `npm start`
 instruction:
-cd codingchallenge ---> run 'npm start' to activate the react app.
+on the terminal
+1. react-react-app your-app-name
+2. cd your-app-name
+3. npm install npm install react-icons
+4. npm install tachyons
+5. replace the files in ./your-app-name/src by my file codingchallenge/src
+6. run --> npm start
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
