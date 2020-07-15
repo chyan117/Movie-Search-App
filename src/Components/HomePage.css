@@ -1,0 +1,40 @@
+#container p,
+#container input{
+    display: inline;
+    vertical-align: top;
+    
+}
+
+
+#first-title{
+    position: relative;
+    right: 15px;
+    top: 5px;
+}
+
+#year p,
+#year input{
+    display: inline;
+    vertical-align: top;
+}
+
+
+#year p{
+    position: relative;
+    right: 15px;
+    top: 5px;
+}
+
+
+
+#search select,
+#search label{
+    display: inline;
+    vertical-align: top;
+    padding: 5px;
+}
+#search label{
+    padding-left: 30px;
+    position: relative;
+    bottom: 10px;
+}

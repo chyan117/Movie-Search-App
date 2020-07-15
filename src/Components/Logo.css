@@ -1,0 +1,23 @@
+
+
+.Moto{
+    text-align: left;
+    font-size: 70px;
+}
+
+#containerIntro h1,
+#containerIntro label{
+    display: inline;
+    vertical-align: top;
+}
+
+
+#label{
+    position:absolute; 
+    right:50px;
+    top:1px;
+}
+
+.back{
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+#containers #stuff1,
+#containers #stuff2,
+#containers #stuff3,
+#containers #stuff4,
+#containers #first,
+#containers #second,
+#containers #third,
+#containers #forth
+{
+    display: inline;
+    vertical-align: top;
+    cursor: pointer;
+}

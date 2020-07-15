@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+input[type='radio']{
+  display: none;
+} 
+#details{
+    display: flex;
+}
+#details > div {
+    display: inline-block;
+    
+    padding: 1em;
+    border: 60px;
+}
+
+#details > #list {
+position: absolute;
+  right: 200px;
+  width: 500px;
+}
+
+#details > #img {
+position: absolute;
+  left: 150px;
+  width: 500px;
+}
