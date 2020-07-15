@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/chyan117/Movie-Search-App/static/css/main.6005d74c.chunk.css",
-    "main.js": "/chyan117/Movie-Search-App/static/js/main.0669e69c.chunk.js",
-    "main.js.map": "/chyan117/Movie-Search-App/static/js/main.0669e69c.chunk.js.map",
-    "runtime-main.js": "/chyan117/Movie-Search-App/static/js/runtime-main.de8959de.js",
-    "runtime-main.js.map": "/chyan117/Movie-Search-App/static/js/runtime-main.de8959de.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/chyan117/Movie-Search-App/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.a1913031.chunk.js": "/chyan117/Movie-Search-App/static/js/2.a1913031.chunk.js",
-    "static/js/2.a1913031.chunk.js.map": "/chyan117/Movie-Search-App/static/js/2.a1913031.chunk.js.map",
-    "index.html": "/chyan117/Movie-Search-App/index.html",
-    "precache-manifest.e7c78623b3d881d0a64a24266eaaef4b.js": "/chyan117/Movie-Search-App/precache-manifest.e7c78623b3d881d0a64a24266eaaef4b.js",
-    "service-worker.js": "/chyan117/Movie-Search-App/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/chyan117/Movie-Search-App/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.6005d74c.chunk.css.map": "/chyan117/Movie-Search-App/static/css/main.6005d74c.chunk.css.map",
-    "static/js/2.a1913031.chunk.js.LICENSE.txt": "/chyan117/Movie-Search-App/static/js/2.a1913031.chunk.js.LICENSE.txt"
+    "main.css": "/Movie-Search-App/static/css/main.6005d74c.chunk.css",
+    "main.js": "/Movie-Search-App/static/js/main.4b7d0231.chunk.js",
+    "main.js.map": "/Movie-Search-App/static/js/main.4b7d0231.chunk.js.map",
+    "runtime-main.js": "/Movie-Search-App/static/js/runtime-main.f154da06.js",
+    "runtime-main.js.map": "/Movie-Search-App/static/js/runtime-main.f154da06.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Movie-Search-App/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.a1913031.chunk.js": "/Movie-Search-App/static/js/2.a1913031.chunk.js",
+    "static/js/2.a1913031.chunk.js.map": "/Movie-Search-App/static/js/2.a1913031.chunk.js.map",
+    "index.html": "/Movie-Search-App/index.html",
+    "precache-manifest.6b6c1dea3c99aaf02a18266852407c35.js": "/Movie-Search-App/precache-manifest.6b6c1dea3c99aaf02a18266852407c35.js",
+    "service-worker.js": "/Movie-Search-App/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Movie-Search-App/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.6005d74c.chunk.css.map": "/Movie-Search-App/static/css/main.6005d74c.chunk.css.map",
+    "static/js/2.a1913031.chunk.js.LICENSE.txt": "/Movie-Search-App/static/js/2.a1913031.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.de8959de.js",
+    "static/js/runtime-main.f154da06.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.a1913031.chunk.js",
     "static/css/main.6005d74c.chunk.css",
-    "static/js/main.0669e69c.chunk.js"
+    "static/js/main.4b7d0231.chunk.js"
   ]
 }
