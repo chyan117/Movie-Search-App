@@ -1,9 +1,10 @@
-@AUTHOR Andy Chang
+@AUTHOR Andy Chang<br/>
 @Gmail kingchang33@gmail.clom
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 instruction:
@@ -12,7 +13,7 @@ on the terminal
 2. cd your-app-name
 3. npm install npm install react-icons
 4. npm install tachyons
-5. replace the files in ./your-app-name/src by my file codingchallenge/src
+5. replace the files in ./your-app-name/src by this repo ./src
 6. run --> npm start
 
 Runs the app in the development mode.<br />
